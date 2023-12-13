@@ -1,2 +1,2 @@
-com.cmc.redisc.configure.RedisConfig
-com.cmc.redisc.service.RedisService
+cmc.redisc.configure.RedisConfig
+cmc.redisc.service.RedisService

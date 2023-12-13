@@ -1,8 +1,8 @@
-package com.cmc.redisc.service;
+package cmc.redisc.service;
 
 import cn.hutool.core.thread.ThreadUtil;
-import com.cmc.redisc.configure.RedisReceiver;
-import com.cmc.redisc.configure.TaskSynData;
+import cmc.redisc.configure.RedisReceiver;
+import cmc.redisc.configure.TaskSynData;
 import org.springframework.data.redis.core.BoundSetOperations;
 import org.springframework.data.redis.core.HashOperations;
 import org.springframework.data.redis.core.RedisTemplate;

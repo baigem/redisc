@@ -1,8 +1,8 @@
-package com.cmc.redisc.configure;
+package cmc.redisc.configure;
 
+import cmc.redisc.service.RedisService;
 import cn.hutool.core.thread.ThreadUtil;
 import com.alibaba.fastjson.JSON;
-import com.cmc.redisc.service.RedisService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.redis.connection.RedisConnection;
 import org.springframework.data.redis.core.RedisCallback;

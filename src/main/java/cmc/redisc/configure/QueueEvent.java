@@ -1,6 +1,6 @@
-package com.cmc.redisc.configure;
+package cmc.redisc.configure;
 
-import com.cmc.redisc.service.RedisService;
+import cmc.redisc.service.RedisService;
 import lombok.Data;
 
 import java.io.Serializable;

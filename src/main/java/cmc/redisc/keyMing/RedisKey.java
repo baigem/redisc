@@ -1,4 +1,4 @@
-package com.cmc.redisc.keyMing;
+package cmc.redisc.keyMing;
 
 /**
  * redis 基本键常量

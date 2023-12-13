@@ -1,4 +1,4 @@
-package com.cmc.redisc.configure;
+package cmc.redisc.configure;
 
 import com.alibaba.fastjson.JSONObject;
 import lombok.Data;
